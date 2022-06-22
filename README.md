@@ -13,7 +13,9 @@
 
 3.b - activate it   
 
-3.c - run command : FLASK_APP=app.py flask run  
+3.c - run command : pip install -r requirements.txt (credits go to youssef li aya9ni li fama haja ne9sa xd )
+
+3.d - run command : FLASK_APP=app.py flask run  
 
 => the service will be running under https://localhost:5000  
 
