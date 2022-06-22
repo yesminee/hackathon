@@ -9,7 +9,7 @@
 
 3- we will start running the backend (service)  
 
-3.a - create virtual env  
+3.a - create virtual environment python  
 
 3.b - activate it   
 
